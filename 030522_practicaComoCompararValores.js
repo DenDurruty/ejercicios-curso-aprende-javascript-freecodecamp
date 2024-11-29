@@ -1,8 +1,10 @@
 // 03:05:22 "PRÁCTICA: CÓMO COMPARAR VALORES"
 
 /*
--  
+- Práctica de cómo se puede usar el operador de igualdad y cómo se puede usar el operador de igualdad estricta.
+
 */
+
 
 var a;
 var b;
