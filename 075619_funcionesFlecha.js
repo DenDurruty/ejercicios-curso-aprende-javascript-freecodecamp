@@ -10,12 +10,14 @@ que normalmente se utilizan cuando necesitamos definir funciones anónimas.
 // Ejemplo 1 - A veces necesitamos definir una función anónima...
 /*
 const fecha = function() {
-    return new Date();
-};
+    return new Date(); // retorna el objeto fecha
+
+}; */
 
 // a este tipo de funciones podemos transformarlas en una función flecha así...
 const fecha = () => new Date ();
-*/
+
+console.log(fecha());
 
 
 
