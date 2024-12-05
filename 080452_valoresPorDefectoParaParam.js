@@ -1,7 +1,7 @@
 // 08:04:52 "VALORES POR DEFECTO PARA PARÁMETROS"
 
 /*
-- 
+- Valores por defecto para parámetros
 
 */
 
